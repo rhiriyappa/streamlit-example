@@ -15,7 +15,7 @@ from sklearn.metrics import plot_precision_recall_curve
 #========================== Hyperparameters ===========================
 
 # Set Hyperparameters
-penalty = 'l1'
+penalty = 'l2'
 max_iter = 100
 
 #============================== Data set ===============================
